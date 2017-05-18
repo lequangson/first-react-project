@@ -1,0 +1,276 @@
+{
+  "demo_content": {
+    "page_number": 1
+  },
+  "messages": [
+    {
+      "id": 1,
+      "recipient": {
+        "id": 1,
+        "name": "Ninh Duong Lan Ngoc",
+        "age": 25,
+        "residence": "Ho Chi Minh",
+        "avatar_url": "http://baocongthuong.com.vn/stores/news_dataimages/thanhhuong/032015/07/08/wa-ninh-duong-lan-ngoc-7-3993-142560957020150307085033.0589770.jpg",
+        "unread_messages": 324,
+        "last_visited": "1479881970758"
+      },
+      "messages": [
+        {
+          "id": 1,
+          "content": "Quán xôi mới mở :joy: được :rofl: khoảng 3 năm, nhưng đã tạo thương hiệu nổi :rofl::rofl::rofl: tiếng với món xôi cá rô đồng vừa ngon vừa bổ dưỡng.",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 2,
+          "content": "Học được từ một gia đình người Hà Nội gốc",
+          "time": "1479882061610",
+          "from_recipient": true
+        },
+        {
+          "id": 3,
+          "content": "Anh chủ quán quyết định mở quán kinh doanh để nhiều người được thưởng thức món ăn ngon này.",
+          "time": "1479882144274",
+          "from_recipient": false
+        },
+        {
+          "id": 4,
+          "content": "Xôi được nấu là :sweat: loại nếp quê thơm ngon của Hải Dương. :sleeping:",
+          "time": "1479882144274",
+          "from_recipient": false
+        },
+        {
+          "id": 5,
+          "content": ":rage::rage::rage::rage: gỡ xương sau đó xào khô với gia vị theo bí quyết riêng.",
+          "time": "1479882144274",
+          "from_recipient": false
+        },
+        {
+          "id": 6,
+          "content": "Vị hành thơm ngon :lying_face:",
+          "time": "1479882144274",
+          "from_recipient": true
+        },
+        {
+          "id": 7,
+          "content": ":lying_face:",
+          "time": "1480321657378",
+          "from_recipient": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "recipient": {
+        "id": 2,
+        "name": "Kim Tuyen",
+        "age": 16,
+        "residence": "Vung Tau",
+        "avatar_url": "http://images.timnhanh.com/tintuc/20080910/Image/DSC_6457_exposure.jpg",
+        "unread_messages": 0,
+        "last_visited": "1480408081690"
+      },
+      "messages": [
+        {
+          "id": 1,
+          "content": "Nữ siêu anh hùng của DC do cựu hoa hậu Israel Gal Gagot thủ vai",
+          "time": "1479881970758",
+          "from_recipient": false
+        },
+        {
+          "id": 2,
+          "content": " Wonder Woman :joy::joy:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 3,
+          "content": ":kissing:Diana Prince được kỳ vọng sẽ :heart_eyes: tạo đột phá cho nhà DC với bộ phim cùng tên ra mắt vào năm 2017:nauseated_face:",
+          "time": "1479881970758",
+          "from_recipient": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "recipient": {
+        "id": 3,
+        "name": "Trieu Tu Ky",
+        "age": 28,
+        "residence": "Hai Phong",
+        "avatar_url": "http://media.tinmoi.vn/2014/04/25/tu-ky-2.jpg",
+        "unread_messages": 8,
+        "last_visited": "1480408113619"
+      },
+      "messages": []
+    },
+    {
+      "id": 4,
+      "recipient": {
+        "id": 4,
+        "name": "Tang Thanh Ha",
+        "age": 41,
+        "residence": "Can Tho",
+        "avatar_url": "http://img.v3.news.zdn.vn/w1024/Uploaded/OpluOAA/2016_12_01/gettyimages626763560_master.jpg",
+        "unread_messages": 21,
+        "last_visited": "1480408113619"
+      },
+      "messages": [
+        {
+          "id": 1,
+          "content": "Kẻ tàn bạo nhất trong bom tấn Suicide Squad :rofl:",
+          "time": "1479881970758",
+          "from_recipient": false
+        },
+        {
+          "id": 2,
+          "content": "Lạnh lùng, tàn nhẫn, :kissing_closed_eyes: Waller không từ bất cứ thủ đoạn nào để đạt được mục đích.:joy:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 3,
+          "content": ":kissing:Diana Prince được kỳ vọng sẽ :heart_eyes: tạo đột phá cho nhà DC với bộ phim cùng tên ra mắt vào năm 2017:nauseated_face:",
+          "time": "1479881970758",
+          "from_recipient": false
+        },
+        {
+          "id": 4,
+          "content": "Nữ siêu anh hùng của DC do cựu hoa hậu Israel Gal Gagot thủ vai",
+          "time": "1479881970758",
+          "from_recipient": false
+        },
+        {
+          "id": 5,
+          "content": " Wonder Woman :joy::joy:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 6,
+          "content": ":kissing:Diana Prince được kỳ vọng sẽ :heart_eyes: tạo đột phá cho nhà DC với bộ phim cùng tên ra mắt vào năm 2017:nauseated_face:",
+          "time": "1479881970758",
+          "from_recipient": false
+        },
+        {
+          "id": 7,
+          "content": "Nữ siêu anh hùng của DC do cựu hoa hậu Israel Gal Gagot thủ vai",
+          "time": "1479881970758",
+          "from_recipient": false
+        },
+        {
+          "id": 8,
+          "content": " Wonder Woman :joy::joy:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 9,
+          "content": ":kissing:Diana Prince được kỳ vọng sẽ :heart_eyes: tạo đột phá cho nhà DC với bộ phim cùng tên ra mắt vào năm 2017:nauseated_face:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 10,
+          "content": "Nữ siêu anh hùng của DC do cựu hoa hậu Israel Gal Gagot thủ vai",
+          "time": "1479881970758",
+          "from_recipient": false
+        },
+        {
+          "id": 11,
+          "content": " Wonder Woman :joy::joy:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 12,
+          "content": ":kissing:Diana Prince được kỳ vọng sẽ :heart_eyes: tạo đột phá cho nhà DC với bộ phim cùng tên ra mắt vào năm 2017:nauseated_face:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 13,
+          "content": "Nữ siêu anh hùng của DC do cựu hoa hậu Israel Gal Gagot thủ vai",
+          "time": "1479881970758",
+          "from_recipient": false
+        },
+        {
+          "id": 14,
+          "content": " Wonder Woman :joy::joy:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 15,
+          "content": ":kissing:Diana Prince được kỳ vọng sẽ :heart_eyes: tạo đột phá cho nhà DC với bộ phim cùng tên ra mắt vào năm 2017:nauseated_face:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 16,
+          "content": "Nữ siêu anh hùng của DC do cựu hoa hậu Israel Gal Gagot thủ vai",
+          "time": "1479881970758",
+          "from_recipient": false
+        },
+        {
+          "id": 17,
+          "content": " Wonder Woman :joy::joy:",
+          "time": "1479881970758",
+          "from_recipient": true
+        },
+        {
+          "id": 18,
+          "content": ":kissing:Diana Prince được kỳ vọng sẽ :heart_eyes: tạo đột phá cho nhà DC với bộ phim cùng tên ra mắt vào năm 2017:nauseated_face:",
+          "time": "1479881970758",
+          "from_recipient": true
+        }
+      ]
+    }
+  ],
+  "chat_lists": [
+    {
+      "id": 1,
+      "name": "Ninh Duong Lan Ngoc",
+      "age": 25,
+      "residence": "Ho Chi Minh",
+      "avatar_url": "http://baocongthuong.com.vn/stores/news_dataimages/thanhhuong/032015/07/08/wa-ninh-duong-lan-ngoc-7-3993-142560957020150307085033.0589770.jpg",
+      "unread_messages": 324,
+      "last_visited": "1479881970758"
+    },
+    {
+      "id": 2,
+      "name": "Kim Tuyen",
+      "age": 16,
+      "residence": "Vung Tau",
+      "avatar_url": "http://images.timnhanh.com/tintuc/20080910/Image/DSC_6457_exposure.jpg",
+      "unread_messages": 0,
+      "last_visited": "1479881970758"
+    },
+    {
+      "id": 3,
+      "name": "Trieu Tu Ky",
+      "age": 28,
+      "residence": "Hai Phong",
+      "avatar_url": "http://media.tinmoi.vn/2014/04/25/tu-ky-2.jpg",
+      "unread_messages": 8,
+      "last_visited": "1479881970758"
+    },
+    {
+      "id": 4,
+      "name": "Tang Thanh Ha",
+      "age": 41,
+      "residence": "Can Tho",
+      "avatar_url": "http://img.v3.news.zdn.vn/w1024/Uploaded/OpluOAA/2016_12_01/gettyimages626763560_master.jpg",
+      "unread_messages": 21,
+      "last_visited": "1479881970758"
+    }
+  ],
+  "login_validate": {
+    "status_code": 1,
+    "error_messages": [
+      "Bạn chưa đến 18 tuổi",
+      "Bạn đã kết hôn",
+      "Mạng internet không ổn định, vui lòng thử lại"
+    ]
+  }
+}
