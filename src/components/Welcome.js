@@ -74,7 +74,10 @@ class Welcome extends Component {
       </div>
     </div>
     )
+  }
 
+  componentWillMount() {
+    this.props.getWelcomePageCompletion()
   }
 
   render() {

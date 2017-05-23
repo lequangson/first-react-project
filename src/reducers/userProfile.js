@@ -51,7 +51,7 @@ function profile(state = {
             error: false
         })
     case UPDATE_WELCOMEPAGE_COMPLETION_SUCCESS:
-      const page = action.res.payload.data.page_number || action.extentions
+      const page = action.payload  ? action.payload.page_number : action.extentions
       return Object.assign({}, state, {
         current_user: {
           ...state.current_user,
