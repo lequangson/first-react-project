@@ -49,7 +49,7 @@ Using external command to lint js file. Because don't know how to config eslint 
 ```
 npm run eslint
 ```
-Ymeetme Chat URL: http://localhost:3000
+react + redux Chat URL: http://localhost:3000
 ## Todos
 
 * [x] Using Airbnb eslint instead of default eslint
